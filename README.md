@@ -51,5 +51,5 @@ Basic loading and error handling are included to improve usability.
  Tool
 
 Figma
-Figma link
-https://www.figma.com/design/RzJLX3XQf1hv9gNAbYTK7U/Trueminds-Innovations?node-id=1-2&t=pRqWQ7H3An4iAMsO-1
+Prototype link
+https://www.figma.com/proto/fZ3NrpCqAJYbS86qpXG2a6/My-Design-Deux?node-id=253-176&p=f&t=LsuckiGFJlMZttUh-1&scaling=scale-down&content-scaling=fixed&page-id=252%3A2&starting-point-node-id=357%3A536
