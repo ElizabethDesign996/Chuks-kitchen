@@ -52,4 +52,4 @@ Basic loading and error handling are included to improve usability.
 
 Figma
 Prototype link
-https://www.figma.com/proto/fZ3NrpCqAJYbS86qpXG2a6/My-Design-Deux?node-id=253-176&p=f&t=LsuckiGFJlMZttUh-1&scaling=scale-down&content-scaling=fixed&page-id=252%3A2&starting-point-node-id=357%3A536
+https://www.figma.com/proto/fZ3NrpCqAJYbS86qpXG2a6/My-Design-Deux?node-id=357-536&p=f&t=LsuckiGFJlMZttUh-1&scaling=scale-down&content-scaling=fixed&page-id=252%3A2&starting-point-node-id=357%3A536
